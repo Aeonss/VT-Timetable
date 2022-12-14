@@ -19,6 +19,9 @@ Download the requirements:
 ``` bash
 pip install -r requirements.txt
 ```
+## ❤️ &nbsp; Examples
+![example1](https://i.imgur.com/n0mBt1Q.png)
+
 
 ## 🚀 &nbsp; Usage
 

@@ -5,7 +5,7 @@ import argparse
 import re
 
 default_postdata = {
-    'CAMPUS': '0',
+    'CAMPUS': '0', 
     'TERMYEAR': '202301',
     'CORE_CODE': 'AR%',
     'subj_code': '',
