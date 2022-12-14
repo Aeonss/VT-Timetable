@@ -2,7 +2,7 @@
 
 <font size="3">
 
-<a href="https://github.com/Aeonss/MFCScraper/blob/master/VT-Timetable.py">VT-Timetable</a> looks up classes on the VT Timetable.
+<a href="https://github.com/Aeonss/VT-Timetable/blob/master/VT-Timetable.py">VT-Timetable</a> looks up classes on the VT Timetable.
 
 ## 🔨 &nbsp; Installation
 Install python:
