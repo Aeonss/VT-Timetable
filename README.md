@@ -12,7 +12,7 @@ https://www.python.org/downloads/
 
 Download source file and add to your project folder
 ``` bash
-https://github.com/Aeonss/VT-Timetable/blob/master/VT-Timetable.py
+https://github.com/Aeonss/VT-Timetable/archive/refs/heads/master.zip
 ```
 
 Download the requirements:
