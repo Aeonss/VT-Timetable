@@ -49,6 +49,8 @@ Arguments
 
 ```
 
+Use [VT DataCommons](https://udc.vt.edu/irdata/data/courses/grades) to find average grades for courses.
+
 
 ## 📘 &nbsp; License
 VT-Timetable is released under the [MIT license](https://github.com/Aeonss/VT-Timetable/blob/master/LICENSE.md).
